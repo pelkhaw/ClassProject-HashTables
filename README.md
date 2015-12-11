@@ -9,4 +9,4 @@ Options for the command line are located bellow
 
 https://i.imgur.com/yWBOS0K.png
 
-A download for the project description can be found here:
+A download for the project description can be found here: https://github.com/pelkhaw/ClassProject-HashTables/files/59781/mp7.pdf
